@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="index_viewpager_height">300dp</dimen>
+    <dimen name="index_viewpager_height_p1">150dp</dimen>
+    <dimen name="index_viewpager_height_p2">150dp</dimen>
+    <dimen name="status_bar_height">30dp</dimen>
+    <dimen name="toolbar_height">42dp</dimen>
+    <dimen name="index_search_container">45dp</dimen>
+    <dimen name="index_tab_container">42dp</dimen>
+    <dimen name="index_fragment_margin_top">-160dp</dimen>
+</resources>

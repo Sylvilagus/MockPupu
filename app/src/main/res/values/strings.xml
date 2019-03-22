@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">模拟朴朴</string>
+    <string name="unknown_category">未知分类</string>
+    <string name="index_search_text">1元起送，30分钟达</string>
+    <string name="behavior_index_toolbar">com.sylva.mockpupu.util.IndexToolbarFadeBehavior</string>
+    <string name="behavior_index_banner">com.sylva.mockpupu.util.IndexBannerBehavior</string>
+</resources>

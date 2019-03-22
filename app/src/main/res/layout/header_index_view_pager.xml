@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="@dimen/index_viewpager_height"
+    android:background="@color/pink300"
+    android:clipChildren="false"
+    android:layout_gravity="bottom">
+    <com.sylva.mockpupu.widget.InnerViewPager
+        android:id="@+id/indexViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/index_viewpager_height"
+        android:background="@color/colorPrimary"
+        android:clipChildren="false"/>
+</FrameLayout>

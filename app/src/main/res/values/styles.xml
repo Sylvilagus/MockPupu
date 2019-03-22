@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TabLayout">
+        <item name="tabMode">scrollable</item>
+    </style>
+    <style name="IndexSearchBar">
+        <item name="android:textColor">@color/grey500</item>
+        <item name="android:drawableLeft">@drawable/ic_search_g500_24dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="PasswordUnit">
+        <item name="android:background">@color/white</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+
+</resources>
